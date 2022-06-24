@@ -1,6 +1,7 @@
                                                                         
-                                                              Hi there 👋, i'm Yevhen
-                                                     A passionate frontend developer from Ukraine
+# Hi there 👋, i'm Yevhen
+A passionate frontend developer from Ukraine
+
 # 💫 About Me:
 🔭 Currently working on Portfolio<br>🌱 I’m currently learning I can get my hands on!<br>💬 Ask me about JS, React.js <br>📫 How to reach me gorbatenko.evgen2001@gmail.com 
 
